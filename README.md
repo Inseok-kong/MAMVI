@@ -6,5 +6,4 @@ This repository provides the official implementation of
 > [Inseok Kong](https://inseok-kong.github.io/),Geunyoung Jung, and Jiyoung Jung  
 > ICPR 2026
 
-Coming soon..
-
+Code will be uploaded soon...
